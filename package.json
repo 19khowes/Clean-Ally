@@ -2,7 +2,7 @@
   "name": "clean-ally",
   "main": "./lib/clean-ally",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Cleans out extraneous HTML that can be inserted when using the Ally downloader.",
   "keywords": [
   ],
   "activationCommands": {

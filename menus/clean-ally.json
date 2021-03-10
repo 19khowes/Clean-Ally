@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Clean Ally",
+        "command": "clean-ally:clean"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Clean Ally",
+          "submenu": [
+            {
+              "label": "Clean",
+              "command": "clean-ally:clean"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

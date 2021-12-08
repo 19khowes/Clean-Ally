@@ -1,10 +1,9 @@
 {
   "name": "clean-ally",
   "main": "./lib/clean-ally",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Cleans out extraneous HTML that can be inserted when using the Ally downloader.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "clean-ally:clean"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
